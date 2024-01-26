@@ -3,23 +3,23 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/AdGuard_Home/img/5.webp">
 </p>
 
 ---
