@@ -1,10 +1,33 @@
-# AdGuard_Home
+# AdGuard_Home_Rules
 
 ---
 
-|         AdGuard Home 官方内置规则          |
-| :----------------------------------------------------------- |
-| **常规** 在大多数设备上阻止跟踪和广告的列表 |
+| AdGuard Home 第三方规则 |
+| :------------------------- |
+| **排名不分先后** 按规则名进行排序 共计17条 |
+| [XXKiller](https://cdn.jsdelivr.net/gh/DoingDog/xXKiller@main/w.txt) |
+| [oisd big](https://abp.oisd.nl/) |
+| [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) |
+| [QuarkList](https://n2o.io/projects/quarklist/dist/quarklist.txt) |
+| [GitHub520](https://raw.hellogithub.com/hosts) |
+| [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt) |
+| [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
+| [List 1706525366](https://anti-ad.net/easylist.txt) |
+| [List 1706525368](https://anti-ad.net/adguard.txt) |
+| [轻量广告拦截规则](https://cdn.jsdelivr.net/gh/damengzhu/banad@main/jiekouAD.txt) |
+| [乘风 广告过滤规则](https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt) |
+| [Zhihu App 广告屏蔽](https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
+| [adgk手机去广告规则](https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt) |
+| [CJX's Annoyance List](https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/cjx-annoyance.txt) |
+| [ChinaList+EasyList(修正)](http://sub.adtchrome.com/adt-chinalist-easylist.txt) |
+| [Fanboy's Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt) |
+| [Adblock Warning Removal List](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) |
+
+---
+
+| AdGuard Home 官方内置规则 总计50条 |
+| :------------------------- |
+| **常规** 在大多数设备上阻止跟踪和广告的列表 共计13条 |
 | [1Hosts (Lite)](https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt) |
 | [1Hosts (mini)](https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt) |
 | [AdGuard DNS filter](https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt) |
@@ -18,7 +41,7 @@
 | [OISD Blocklist Big](https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt) |
 | [Peter Lowe's Blocklist](https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt) |
 | [Steven Black's List](https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt) |
-| **其它** 其他黑名单 |
+| **其它** 其他黑名单 共计8条 |
 | [Dandelion Sprout's Anti Push Notifications](https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt) |
 | [Dandelion Sprout's Game Console Adblock List](https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt) |
 | [HaGeZi's Allowlist Referral](https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt) |
@@ -27,7 +50,7 @@
 | [No Google](https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt) |
 | [Perflyst and Dandelion Sprout's Smart-TV Blocklist](https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt) |
 | [WindowsSpyBlocker - Hosts spy rules](https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt) |
-| **区域** 专注于区域广告和跟踪服务器的列表 |
+| **区域** 专注于区域广告和跟踪服务器的列表 共计17条 |
 | ['CHN: AdRules DNS List'](https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt) |
 | ['CHN: anti-AD'](https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt) |
 | ['HUN: Hufilter'](https://adguardteam.github.io/HostlistsRegistry/assets/filter_35.txt) |
@@ -45,7 +68,7 @@
 | ['TUR: turk-adlist'](https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt) |
 | ['TUR: Turkish Ad Hosts'](https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt) |
 | ['VNM: ABPVN List'](https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt) |
-| **安全** 专用于拦截恶意软件、钓鱼或欺诈域名的列表 |
+| **安全** 专用于拦截恶意软件、钓鱼或欺诈域名的列表 共计12条 |
 | [Phishing URL Blocklist (PhishTank and OpenPhish)](https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt) |
 | [Dandelion Sprout's Anti-Malware List](https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt) |
 | [HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass](https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt) |
@@ -62,28 +85,28 @@
 ---
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home/master/img/1.webp">
+  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home/master/img/2.webp">
+  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home/master/img/3.webp">
+  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home/master/img/4.webp">
+  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home/master/img/5.webp">
+  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/5.webp">
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{AdGuard_Home}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{AdGuard_Home_Rules}/count.svg)
 
 ---
 
