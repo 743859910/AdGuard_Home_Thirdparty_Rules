@@ -2,11 +2,10 @@
 
 ---
 
-| AdGuard Home 第三方规则 总计24条 |
+| AdGuard Home 第三方规则 总计21条 |
 | :------------------------- |
-| **排名不分先后** 按规则名称长短进行排序 共计24条 |
+| **排名不分先后** 按规则名称长短进行排序 共计21条 |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
-| [XXKiller](https://cdn.jsdelivr.net/gh/DoingDog/xXKiller@main/w.txt) |
 | [oisd big](https://abp.oisd.nl/) |
 | [XXKiller](https://cdn.jsdelivr.net/gh/DoingDog/xXKiller@main/w.txt) |
 | [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) |
@@ -15,8 +14,6 @@
 | [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt) |
 | [My AdFilters](https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt) |
 | [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
-| [List 1706525366](https://anti-ad.net/easylist.txt) |
-| [List 1706525368](https://anti-ad.net/adguard.txt) |
 | [轻量广告拦截规则](https://cdn.jsdelivr.net/gh/damengzhu/banad@main/jiekouAD.txt) |
 | [乘风 广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
 | [乘风 视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) |
