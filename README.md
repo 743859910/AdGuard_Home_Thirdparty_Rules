@@ -2,10 +2,11 @@
 
 ---
 
-| AdGuard Home 第三方规则 总计20条 |
+| AdGuard Home 第三方规则 总计21条 |
 | :------------------------- |
-| **排名不分先后** 按规则名称长短进行排序 共计20条 |
+| **排名不分先后** 按规则名称长短进行排序 共计2条 |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
+| [oisd big](https://abp.oisd.nl/) |
 | [XXKiller](https://raw.githubusercontent.com/DoingDog/xXKiller@main/w.txt) |
 | [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) |
 | [QuarkList](https://n2o.io/projects/quarklist/dist/quarklist.txt) |
