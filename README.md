@@ -6,18 +6,18 @@
 | :------------------------- |
 | **排名不分先后** 按规则名称长短进行排序 共计17条 ↓ |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
-| [XXKiller](https://raw.githubusercontent.com/DoingDog/xXKiller/main/w.txt) |
+| [XXKiller](https://raw.github.ink/DoingDog/xXKiller/main/w.txt) |
 | [oisd big](https://abp.oisd.nl) |
 | [QuarkList](https://n2o.io/projects/quarklist/dist/quarklist.txt) |
 | [GitHub520](https://raw.hellogithub.com/hosts) |
-| [My AdFilters](https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt) |
-| [AdBlock DNS](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
-| [GOODBYEADS](https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt) |
-| [轻量广告拦截规则](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) |
-| [乘风 广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
-| [Zhihu App 广告屏蔽](https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
+| [My AdFilters](https://raw.github.ink/o0HalfLife0o/list/master/ad.txt) |
+| [AdBlock DNS](https://raw.github.ink/217heidai/adblockfilters/main/rules/adblockdns.txt) |
+| [GOODBYEADS](https://raw.github.ink/8680/GOODBYEADS/master/rules.txt) |
+| [轻量广告拦截规则](https://raw.github.ink/damengzhu/banad/main/jiekouAD.txt) |
+| [乘风 广告过滤规则](https://raw.github.ink/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
+| [Zhihu App 广告屏蔽](https://raw.github.ink/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
 | [anti-AD for AdGuard](https://anti-ad.net/adguard.txt) |
-| [百度搜索结果极限净化](https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt) |
+| [百度搜索结果极限净化](https://raw.github.ink/banbendalao/ADgk/master/kill-baidu-ad.txt) |
 | [ChinaList+EasyList(修正)](http://sub.adtchrome.com/adt-chinalist-easylist.txt) |
 | [Fanboy's Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt) |
 | [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp) |
