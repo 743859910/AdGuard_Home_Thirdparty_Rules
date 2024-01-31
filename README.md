@@ -2,15 +2,11 @@
 
 ---
 
-| AdGuard Home 第三方规则 总计23条 |
+| AdGuard Home 第三方规则 总计24条 |
 | :------------------------- |
-<<<<<<< HEAD
-| **排名不分先后** 按规则名称长短进行排序 共计23条 |
+| **排名不分先后** 按规则名称长短进行排序 共计24条 |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
-=======
-| **排名不分先后** 按规则名称长短进行排序 共计17条 ↓ |
 | [XXKiller](https://cdn.jsdelivr.net/gh/DoingDog/xXKiller@main/w.txt) |
->>>>>>> 78161942c8fb5c2c10f8c75666a1f40c478140c3
 | [oisd big](https://abp.oisd.nl/) |
 | [XXKiller](https://cdn.jsdelivr.net/gh/DoingDog/xXKiller@main/w.txt) |
 | [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) |
