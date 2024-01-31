@@ -2,30 +2,25 @@
 
 ---
 
-| AdGuard Home 第三方规则 总计22条 |
+| AdGuard Home 第三方规则 总计17条 |
 | :------------------------- |
-| **排名不分先后** 按规则名称长短进行排序 共计22条 |
+| **排名不分先后** 按规则名称长短进行排序 共计17条 |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
-| [oisd big](https://abp.oisd.nl/) |
 | [XXKiller](https://raw.githubusercontent.com/DoingDog/xXKiller/main/w.txt) |
-| [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) |
+| [oisd big](https://abp.oisd.nl) |
 | [QuarkList](https://n2o.io/projects/quarklist/dist/quarklist.txt) |
 | [GitHub520](https://raw.hellogithub.com/hosts) |
-| [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt) |
 | [My AdFilters](https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt) |
-| [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
+| [AdBlock DNS](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
+| [GOODBYEADS](https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt) |
 | [轻量广告拦截规则](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) |
 | [乘风 广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
-| [乘风 视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) |
-| [AdGuard DNS filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt) |
 | [Zhihu App 广告屏蔽](https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
-| [adgk手机去广告规则](https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt) |
 | [anti-AD for AdGuard](https://anti-ad.net/adguard.txt) |
-| [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) |
 | [百度搜索结果极限净化](https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt) |
 | [ChinaList+EasyList(修正)](http://sub.adtchrome.com/adt-chinalist-easylist.txt) |
 | [Fanboy's Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt) |
-| [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/) |
+| [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp) |
 | [Adblock Warning Removal List](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) |
 
 ---
