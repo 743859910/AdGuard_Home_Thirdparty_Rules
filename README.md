@@ -6,18 +6,18 @@
 | :------------------------- |
 | **排名不分先后** 按规则名称长短进行排序 共计17条 ↓ |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
-| [XXKiller](https://raw.github.ink/DoingDog/xXKiller/main/w.txt) |
+| [XXKiller](https://raw.gitmirror.com/DoingDog/xXKiller/main/w.txt) |
 | [oisd big](https://abp.oisd.nl) |
 | [QuarkList](https://n2o.io/projects/quarklist/dist/quarklist.txt) |
 | [GitHub520](https://raw.hellogithub.com/hosts) |
-| [My AdFilters](https://raw.github.ink/o0HalfLife0o/list/master/ad.txt) |
-| [AdBlock DNS](https://raw.github.ink/217heidai/adblockfilters/main/rules/adblockdns.txt) |
-| [GOODBYEADS](https://raw.github.ink/8680/GOODBYEADS/master/rules.txt) |
-| [轻量广告拦截规则](https://raw.github.ink/damengzhu/banad/main/jiekouAD.txt) |
-| [乘风 广告过滤规则](https://raw.github.ink/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
-| [Zhihu App 广告屏蔽](https://raw.github.ink/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
+| [My AdFilters](https://raw.gitmirror.com/o0HalfLife0o/list/master/ad.txt) |
+| [AdBlock DNS](https://raw.gitmirror.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
+| [GOODBYEADS](https://raw.gitmirror.com/8680/GOODBYEADS/master/rules.txt) |
+| [轻量广告拦截规则](https://raw.gitmirror.com/damengzhu/banad/main/jiekouAD.txt) |
+| [乘风 广告过滤规则](https://raw.gitmirror.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
+| [Zhihu App 广告屏蔽](https://raw.gitmirror.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
 | [anti-AD for AdGuard](https://anti-ad.net/adguard.txt) |
-| [百度搜索结果极限净化](https://raw.github.ink/banbendalao/ADgk/master/kill-baidu-ad.txt) |
+| [百度搜索结果极限净化](https://raw.gitmirror.com/banbendalao/ADgk/master/kill-baidu-ad.txt) |
 | [ChinaList+EasyList(修正)](http://sub.adtchrome.com/adt-chinalist-easylist.txt) |
 | [Fanboy's Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt) |
 | [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp) |
@@ -85,23 +85,23 @@
 ---
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/AdGuard_Home_Rules/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/AdGuard_Home_Rules/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/AdGuard_Home_Rules/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/AdGuard_Home_Rules/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/AdGuard_Home_Rules/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/AdGuard_Home_Rules/master/img/5.webp">
 </p>
 
 ---
@@ -110,7 +110,7 @@
 
 ---
 
-![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/SZRMB.webp)
+![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/SZRMB.webp)
 
 ---
 
