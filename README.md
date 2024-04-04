@@ -2,9 +2,9 @@
 
 ---
 
-| AdGuard Home 第三方规则 总计17条 |
+| AdGuard Home 第三方规则 总计19条 |
 | :------------------------- |
-| **排名不分先后** 按规则名称长短进行排序 共计17条 ↓ |
+| **排名不分先后** 按规则名称长短进行排序 共计19条 ↓ |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
 | [XXKiller](https://raw.gitmirror.com/DoingDog/xXKiller/main/w.txt) |
 | [oisd big](https://abp.oisd.nl) |
@@ -20,7 +20,9 @@
 | [百度搜索结果极限净化](https://raw.gitmirror.com/banbendalao/ADgk/master/kill-baidu-ad.txt) |
 | [ChinaList+EasyList(修正)](http://sub.adtchrome.com/adt-chinalist-easylist.txt) |
 | [Fanboy's Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt) |
+| [混合规则精简版(自动更新)](https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt) |
 | [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp) |
+| [AdGuard Mobile Ads filter](https://filters.adtidy.org/extension/ublock/filters/11.txt) |
 | [Adblock Warning Removal List](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) |
 
 ---
