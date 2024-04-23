@@ -2,9 +2,9 @@
 
 ---
 
-| AdGuard Home 第三方规则 总计19条 |
+| AdGuard Home 第三方规则 总计35条 |
 | :------------------------- |
-| **排名不分先后** 按规则名称长短进行排序 共计19条 ↓ |
+| **排名不分先后** 共计35条 ↓ |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
 | [XXKiller](https://raw.gitmirror.com/DoingDog/xXKiller/main/w.txt) |
 | [oisd big](https://abp.oisd.nl) |
@@ -24,6 +24,22 @@
 | [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp) |
 | [AdGuard Mobile Ads filter](https://filters.adtidy.org/extension/ublock/filters/11.txt) |
 | [Adblock Warning Removal List](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) |
+| [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) |
+| [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
+| [CJX's Annoyance List](https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/cjx-annoyance.txt) |
+| [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt) |
+| [oisd big](https://abp.oisd.nl/) |
+| [ABP Merge Rules](https://raw.gitmirror.com/damengzhu/abpmerge/main/abpmerge.txt) |
+| [AdRules AdBlock List Lite](https://adrules.top/adblock_lite.txt) |
+| [adgk手机去广告规则](https://raw.gitmirror.com/banbendalao/ADgk/master/ADgk.txt) |
+| [NoAppDownload](https://raw.gitmirror.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt) |
+| [轻量广告拦截规则](https://raw.gitmirror.com/damengzhu/banad/main/jiekouAD.txt) |
+| [AdBlock Filter](https://raw.gitmirror.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) |
+| [XXKiller](https://cdn.jsdelivr.net/gh/DoingDog/xXKiller@main/w.txt) |
+| [Zhihu App 广告屏蔽](https://raw.gitmirror.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
+| [ABP Merge Rules](https://raw.gitmirror.com/damengzhu/abpmerge/main/abpmerge.txt) |
+| [adgk手机去广告规则](https://raw.gitmirror.com/banbendalao/ADgk/master/ADgk.txt) |
+| [AdBlock Filter](https://raw.gitmirror.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) |
 
 ---
 
