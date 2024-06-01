@@ -51,6 +51,56 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 ---
 
+EasyList —— 去除国际网页中大多数广告，包括不需要的框架、图像和对象
+链接：https://easylist-downloads.adblockplus.org/easylist.txt
+
+EasyList China —— EasyList针对国内的补充规则
+链接：https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+EasyPrivacy —— 从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据
+链接：https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+EasyList Cookie List —— 阻止Cookie标语，GDPR覆盖窗口和其他与隐私相关的通知
+链接：https://easylist-downloads.adblockplus.org/easylist-cookie.txt
+
+乘风去广告
+广告规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+视频规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+
+Anti-AD —— 目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护。屏蔽广告域名、电视盒子广告、APP内置广告，同时屏蔽了一些日志收集、大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传
+链接：https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+
+Adbyby
+链接：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+链接：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt
+
+过滤自我推广并补充 EasyPrivacy 隐私规则 —— CJX’s Annoyance List (去自推列表)
+链接：https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+
+ADgk —— 适用于 AdGuard for Android 的去广告规则（不保证在其他软件使用的效果）
+链接：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+
+百度搜索结果内屏蔽百家号
+链接：https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
+
+屏蔽网站的 cookies 相关的警告
+链接：https://www.i-dont-care-about-cookies.eu/abp/
+
+知乎过滤器 —— 去除开屏、时间轴、首页推荐、回答列表、回答底部及评论区广告，个人中心VIP横幅
+标准版：https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt
+严格版：https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
+
+广告终结者使用的拦截规则，基于ChinaList+EasyList修正维护
+链接：http://sub.adtchrome.com/adt-chinalist-easylist.txt
+
+EasylistChina+EasylistLite+CJX’sAnnoyance —— 由 halflife 维护的拦截规则 ，合并了 EasylistChina、EasylistLite、CJX’sAnnoyance，以及补充的一些规则，每日更新。
+链接：https://gitee.com/halflife/list/raw/master/ad.txt
+
+大圣净化 - 针对国内视频网站
+链接：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+---
+
 | AdGuard Home 官方内置规则 总计50条 |
 | :------------------------- |
 | **常规** 在大多数设备上阻止跟踪和广告的列表 共计13条 ↓ |
