@@ -51,6 +51,18 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 ---
 
+ABP filters
+链接：https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+anti-AD for AdGuard
+链接：https://anti-ad.net/adguard.txt
+
+EasyList China+EasyList
+链接：https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+
+AdGuard DNS filter (Optimized)
+链接：https://filters.adtidy.org/android/filters/15_optimized.txt
+
 EasyList —— 去除国际网页中大多数广告，包括不需要的框架、图像和对象
 链接：https://easylist-downloads.adblockplus.org/easylist.txt
 
