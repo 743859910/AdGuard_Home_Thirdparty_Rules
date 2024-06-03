@@ -111,6 +111,35 @@ EasylistChina+EasylistLite+CJX’sAnnoyance —— 由 halflife 维护的拦截�
 大圣净化 - 针对国内视频网站
 链接：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 
+EasyList China : （国内网站广告过滤的主规则）
+链接：https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+EasyList China : 国内网站广告过滤的主规则。
+链接:https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt
+
+EasyPrivacy : （EasyPrivacy 是隐私保护，不被跟踪）
+链接：https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+CJX’s Annoyance List : （过滤烦人的自我推广，并补充 EasyPrivacy 隐私规则）
+链接：https://github.com/cjx82630/cjxlist/blob/master/cjx-annoyance.txt
+
+I don’t care about cookies : （我不关心 Cookie 的问题，屏蔽网站的 cookies 相关的警告）
+链接：https://www.i-dont-care-about-cookies.eu/abp/
+
+HalfLife：规则合并自 EasylistChina、EasylistLite、CJX’sAnnoyance 合并规则（几乎每天更新)
+链接：https://gitee.com/halflife/list/raw/master/ad.txt
+
+xinggsf：乘风广告过滤规则 + 视频过滤规则，乘风规则更新详情
+链接：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+链接：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+
+cjx82630：cjxlist 国内备用地址
+1.CJX’s Annoyance List： (去自推列表)
+链接：https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+
+2.CJX’s uBlock list ：(uBlock 规则)
+链接：https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
+
 ---
 
 | AdGuard Home 官方内置规则 总计50条 |
