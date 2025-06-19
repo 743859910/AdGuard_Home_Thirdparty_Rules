@@ -75,23 +75,23 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/image/images/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/image/images/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/image/images/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/image/images/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Thirdparty_Rules/master/img/image/images/5.webp">
 </p>
 
 ---
