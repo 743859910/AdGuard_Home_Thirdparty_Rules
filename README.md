@@ -96,7 +96,7 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{AdGuard_Home_Thirdparty_Rules}/count.svg)
+![name](https://api.likepoems.com/counter/get/@AdGuard_Home_Thirdparty_Rules)
 
 ---
 
