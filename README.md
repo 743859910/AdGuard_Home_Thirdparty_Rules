@@ -12,7 +12,14 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 | AdGuard Home 第三方规则 总计58条 |
 | :------------------------- |
-| **排名不分先后** 共计58条 ↓ |
+| **排名不分先后** 共计63条 ↓ |
+| [anti-AD](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt) |
+| [halflife 合并规则](https://gitee.com/halflife/list/raw/master/ad.txt) |
+| [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
+| [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt) |
+| [乘风视频过滤规则](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt) |
+| [百万级综合规则（all.txt）](https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt) |
+| [I don’t care about cookies](https://easylist-downloads.adblockplus.org/ielrc.txt) |
 | [anti-AD](https://anti-ad.net/easylist.txt) |
 | [XXKiller](https://raw.githubusercontent.com/DoingDog/xXKiller/main/w.txt) |
 | [oisd big](https://abp.oisd.nl) |
@@ -33,9 +40,7 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 | [AdGuard Mobile Ads filter](https://filters.adtidy.org/extension/ublock/filters/11.txt) |
 | [Adblock Warning Removal List](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) |
 | [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) |
-| [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
 | [CJX's Annoyance List](https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/cjx-annoyance.txt) |
-| [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt) |
 | [oisd big](https://abp.oisd.nl/) |
 | [ABP Merge Rules](https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt) |
 | [AdRules AdBlock List Lite](https://adrules.top/adblock_lite.txt) |
@@ -93,10 +98,6 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 <p align="center">
   <img src="img/image/images/5.webp">
 </p>
-
----
-
-![name](https://api.likepoems.com/counter/get/@AdGuard_Home_Thirdparty_Rules)
 
 ---
 
