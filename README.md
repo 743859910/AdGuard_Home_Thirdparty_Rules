@@ -10,9 +10,9 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 ---
 
-| AdGuard Home 第三方规则 总计58条 |
+| AdGuard Home 第三方规则 总计72条 |
 | :------------------------- |
-| **排名不分先后** 共计63条 ↓ |
+| **排名不分先后** 共计72条 ↓ |
 | [anti-AD](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt) |
 | [halflife 合并规则](https://gitee.com/halflife/list/raw/master/ad.txt) |
 | [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
@@ -29,7 +29,8 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 | [AdBlock DNS](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
 | [GOODBYEADS](https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt) |
 | [轻量广告拦截规则](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) |
-| [乘风 广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
+| [乘风广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) |
+| [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) |
 | [Zhihu App 广告屏蔽](https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt) |
 | [anti-AD for AdGuard](https://anti-ad.net/adguard.txt) |
 | [百度搜索结果极限净化](https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt) |
@@ -76,6 +77,14 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 | [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt) |
 | [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) |
 | [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp) |
+| [EasyList](https://easylist.to/easylist/easylist.txt) |
+| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) |
+| [Fanboy’s Annoyance List](https://fanboy.co.nz/fanboy-annoyance.txt) |
+| [StevenBlack’s hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) |
+| [EasyList China](https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt) |
+| [5whys-FULL](https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt) |
+| [5whys-MED](https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_medium.txt) |
+| [5whys-MIN](https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_min.txt) |
 
 ---
 
