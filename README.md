@@ -120,6 +120,6 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 [MIT License](https://github.com/743859910/AdGuard_Home_Thirdparty_Rules/blob/master/LICENSE)
 
-Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008 - 2026 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
